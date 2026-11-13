@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Predicting the need for broad-spectrum empiric antibiotics at hospital admission: analysis code"
+abstract: "Analysis code for a retrospective cohort study in MIMIC-IV v3.0 predicting receipt of three or more antibiotic classes within 24 hours of admission using data available in the first six hours."
+authors:
+  - family-names: "Wang"
+    given-names: "Juan"
+    # Add co-authors here before archiving.
+version: "1.0.0"
+date-released: "2026-11-13"
+license: MIT
+repository-code: "https://github.com/<account>/<repository>"
+# doi: "10.5281/zenodo.XXXXXXX"   # uncomment and fill after the Zenodo release
+keywords:
+  - antimicrobial stewardship
+  - empiric antibiotics
+  - clinical prediction model
+  - MIMIC-IV
+  - machine learning
